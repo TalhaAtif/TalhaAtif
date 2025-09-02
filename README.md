@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/TalhaAtif/TalhaAtif/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/TalhaAtif/TalhaAtif/output/snake.svg" alt="Snake animation" /> -->
 
 ###
