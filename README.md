@@ -1,45 +1,62 @@
-<h2 align="left">Hi 👋! My name is Talha and I'm a Software Engineer studying at McMaster!</h2>
+<h1 align="center">Talha Atif</h1>
 
-###
+<p align="center">
+  <b>Software Engineering @ McMaster</b> &nbsp;·&nbsp; <b>Full-Stack Developer Intern @ EllisDon</b>
+  <br />
+  US &amp; Canadian citizen
+</p>
 
+<p align="center">
+  <a href="https://talhaatif.com"><img src="https://img.shields.io/badge/Portfolio-talhaatif.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/talha-atif/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:muhammad.tatif@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/talha.atif_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
+<br />
 
-###
+### About
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+I'm a full-stack developer who likes shipping features people actually use, then making them fast and well-tested. At EllisDon I work across React, Go and Java on a billing platform handling $1B+ in transactions a year; before that I built C#/.NET microservices at Dayforce.
 
-###
+### Tech stack
 
-<div align="left">
-  <a href="https://www.instagram.com/talha.atif_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+**Languages**
+
+<p>
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,java,go,cs,bash,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=py,ts,js,java,go,cs,bash,html,css&theme=light" alt="Python, TypeScript, JavaScript, Java, Go, C#, Bash, HTML, CSS" />
+    </picture>
   </a>
-  <a href="mailto:muhammad.tatif@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</p>
+
+**Frameworks**
+
+<p>
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,dotnet,spring,fastapi,tailwind&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,spring,fastapi,tailwind&theme=light" alt="React, Node.js, .NET, Spring Boot, FastAPI, Tailwind CSS" />
+    </picture>
   </a>
-  <a href="https://www.linkedin.com/in/talha-atif/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</p>
+
+**Tools & infrastructure**
+
+<p>
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,docker,githubactions,git,linux,mongodb,supabase,maven&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=postgres,docker,githubactions,git,linux,mongodb,supabase,maven&theme=light" alt="PostgreSQL, Docker, GitHub Actions, Git, Linux, MongoDB, Supabase, Maven" />
+    </picture>
   </a>
-</div>
+</p>
 
-###
+### Recently built
 
-<br clear="both">
+**[Compete](https://talhaatif.com/compete/#/demo)** &nbsp;·&nbsp; React, TypeScript, PostgreSQL, Supabase
 
-<!-- <img src="https://raw.githubusercontent.com/TalhaAtif/TalhaAtif/output/snake.svg" alt="Snake animation" /> -->
-
-###
+- Cut dashboard query latency by over 90% on a 100k-row benchmark by replacing per-row RLS checks with a set-based membership lookup
+- Enforced multi-tenant isolation across 10 Postgres tables, verified by 320+ SQL tests
